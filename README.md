@@ -7,8 +7,7 @@
 - 🎓 Currently pursuing *B.Tech (3rd Year)*
 - 🌱 Learning *DSA, MERN Stack, and AI/ML*
 - 💡 Interested in building *scalable backends, AI tools, and impactful products*
-- 🎯 Goal: Crack *FAANG/50+ LPA Backend Engineer role* & build a *billion-dollar startup*
-- ⚡ Fun fact: I love fitness 🏋‍♂ and want to build AI-powered fitness apps
+- - ⚡ Fun fact: I love fitness 🏋‍♂ and want to build AI-powered fitness apps
 
 ---
 
@@ -44,6 +43,6 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/manu-s-b98151308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)])  
+- 💼 [LinkedIn](www.linkedin.com/in/manu-s-b98151308)  
   
 - 📧 Email: *manu.772110@gmail.com*
