@@ -43,6 +43,6 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn]((https://www.linkedin.com/in/manu-s-b98151308/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manu-s-b98151308/) 
   
 - 📧 Email: *manu.772110@gmail.com*
