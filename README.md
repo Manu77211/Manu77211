@@ -44,6 +44,6 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/manu-s-b98151308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/manu-s-b98151308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)])  
   
 - 📧 Email: *manu.772110@gmail.com*
